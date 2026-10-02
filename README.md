@@ -37,6 +37,30 @@ with Python, FastAPI, LangGraph, and RAG.
 - Led design reviews, mentored new team members, and maintained **90%+ test
   coverage** on key services.
 
+## Experience
+
+| Organization | Role | Period | Focus |
+| --- | --- | --- | --- |
+| **DP World** | Senior Software Developer | Feb 2022–Present | International customs integrations, reusable microservices, Kafka tooling, configuration-driven deployments, design reviews, and mentoring |
+| **Goldman Sachs** | Software Developer | 16 Apr 2020–Jan 2022 | Java project delivery, reconciliation systems, trade-process automation, design patterns, and production support |
+| **Oracle** | Application Developer | Jul 2017–15 Apr 2020 | Microservice ownership, Akka-based concurrency, Agile delivery, Jenkins deployments, and automated testing |
+
+## Tools & technologies
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Java 8/11/17, Python, C++, C#, JavaScript |
+| **Backend** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Google Guice, FastAPI, schedulers, event listeners |
+| **APIs** | REST, Jersey, GraphQL, Swagger / OpenAPI |
+| **Messaging & caching** | Apache Kafka, Azure Service Bus, Redis, Hazelcast |
+| **Databases & storage** | MySQL, PostgreSQL, MongoDB, Oracle Database, Amazon S3, Azure Blob Storage |
+| **Testing & quality** | JUnit, Mockito, QUnit, Cucumber, Selenium, SonarQube |
+| **Containers & delivery** | Docker, Kubernetes, Jenkins, Azure DevOps, Maven, Gradle, Lens |
+| **Observability** | Kibana, Grafana, Prometheus, New Relic, AppDynamics, Papertrail |
+| **AI engineering** | LangGraph, LangChain, RAG, GPT, Claude, Gemini, Microsoft Copilot |
+| **Web** | HTML, CSS, Bootstrap, Mustache |
+| **Developer tools** | Git, GitHub, GitLab, Jira, Postman, IntelliJ IDEA, Eclipse, VS Code |
+
 ## Featured projects
 
 | Project | What it demonstrates | Stack |
